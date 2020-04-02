@@ -4,9 +4,9 @@
 // These data sources hold arrays of information on table-data, waitinglist, etc.
 // ===============================================================================
 
-var tableData = require("tbd");
-var waitListData = require("tbd");
-
+// var tableData = require("tbd");
+// var waitListData = require("tbd");
+// const tableData = require("tbd");
 
 // ===============================================================================
 // ROUTING
